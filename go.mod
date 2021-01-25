@@ -3,7 +3,7 @@ module github.com/keybase/bot-sshca
 go 1.12
 
 require (
-	github.com/google/uuid v1.1.1
+	github.com/google/uuid v1.2.0
 	github.com/keybase/go-keybase-chat-bot v0.0.0-20190903135515-79c56220e558
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.3.0
